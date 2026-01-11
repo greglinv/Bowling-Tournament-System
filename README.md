@@ -29,4 +29,5 @@ A high-complexity logic engine designed to calculate and aggregate scores for fu
    Open the main script in **DrRacket** and press **Run**, or execute via terminal:
    ```bash
    racket bowling_engine.rkt
-4. **View Results: The engine will output the individual scores, team totals, and the tournament winners directly to the console.**
+4. **View Results**:
+   The engine will output the individual scores, team totals, and the tournament winners directly to the console.
